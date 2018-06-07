@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web" DefaultTargets="Publish">
+=======
+<Project Sdk="Microsoft.NET.Sdk.Web" DefaultTargets="Publish">
+>>>>>>> d84ce6afc95332007e4c712165a45ecb97043b41
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
